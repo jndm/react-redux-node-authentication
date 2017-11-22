@@ -2,6 +2,8 @@
 
 This project was created to test out and learn how to create authentication from scratch in React with help of Redux. Idea of this project is that there is a route '/feature' in which users cannot go unless they are logged in. Frontend communicates with NodeJS backend that was also created from scratch for this project.
 
+Project is designed in a way that Node API is ran on it own and frontend is supposed to be ran on a separate server (not included) for scalability.
+
 Example of used techniques 
   * Frontend
     * React
